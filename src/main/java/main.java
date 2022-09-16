@@ -1,11 +1,9 @@
-import horarioDia.QualHorarioDoDia;
-
-import java.util.Date;
+import horarioDia.Saudacao;
 
 public class main {
     public static void main(String [] args){
-       QualHorarioDoDia expressao = new QualHorarioDoDia();
-       String cumprimento = expressao.expressaoASerUtilizada();
-       System.out.println(cumprimento);
+        Saudacao saudacao = new Saudacao();
+        System.out.println(saudacao.horaSaudacao());
+
     }
 }
