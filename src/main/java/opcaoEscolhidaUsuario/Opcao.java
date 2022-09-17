@@ -1,6 +1,6 @@
-package opcoes;
+package opcaoEscolhidaUsuario;
 
-import opcoes.escolha.Escolha;
+import opcaoEscolhidaUsuario.escolha.Escolha;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 import horarioDia.Saudacao;
-import opcoes.Opcao;
+import opcaoEscolhidaUsuario.Opcao;
 
 
 public class main {

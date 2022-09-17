@@ -1,7 +1,7 @@
-package opcoes.escolha;
+package opcaoEscolhidaUsuario.escolha;
 
-import Calculadora.Calculadora;
-import Emprestimo.Emprestimo;
+import calculadora.Calculadora;
+import emprestimo.Emprestimo;
 
 public class Escolha {
 
